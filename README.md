@@ -1,5 +1,5 @@
 # test
-for learning to use github
+learn to using github
 
 adding a new line
 
